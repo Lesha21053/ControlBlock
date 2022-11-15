@@ -1,0 +1,24 @@
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Common\bin\Debug\net5.0\ControlBlock.Common.deps.json
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Common\bin\Debug\net5.0\ControlBlock.Common.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Common\bin\Debug\net5.0\ref\ControlBlock.Common.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Common\bin\Debug\net5.0\ControlBlock.Common.pdb
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.AssemblyInfoInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.AssemblyInfo.cs
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.csproj.CoreCompileInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ref\ControlBlock.Common.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.pdb
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Common\bin\Debug\net5.0\ControlBlock.Common.deps.json
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Common\bin\Debug\net5.0\ControlBlock.Common.dll
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Common\bin\Debug\net5.0\ControlBlock.Common.pdb
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.AssemblyInfo.cs
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.dll
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\refint\ControlBlock.Common.dll
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.pdb
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ref\ControlBlock.Common.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Common\obj\Debug\net5.0\ControlBlock.Common.csproj.AssemblyReference.cache

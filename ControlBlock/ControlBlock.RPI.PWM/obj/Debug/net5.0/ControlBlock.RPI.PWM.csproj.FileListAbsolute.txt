@@ -1,0 +1,12 @@
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.PWM\bin\Debug\net5.0\ControlBlock.RPI.PWM.deps.json
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.PWM\bin\Debug\net5.0\ControlBlock.RPI.PWM.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.PWM\bin\Debug\net5.0\ref\ControlBlock.RPI.PWM.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.PWM\bin\Debug\net5.0\ControlBlock.RPI.PWM.pdb
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.PWM\obj\Debug\net5.0\ControlBlock.RPI.PWM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.PWM\obj\Debug\net5.0\ControlBlock.RPI.PWM.AssemblyInfoInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.PWM\obj\Debug\net5.0\ControlBlock.RPI.PWM.AssemblyInfo.cs
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.PWM\obj\Debug\net5.0\ControlBlock.RPI.PWM.csproj.CoreCompileInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.PWM\obj\Debug\net5.0\ControlBlock.RPI.PWM.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.PWM\obj\Debug\net5.0\ref\ControlBlock.RPI.PWM.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.PWM\obj\Debug\net5.0\ControlBlock.RPI.PWM.pdb
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.PWM\obj\Debug\net5.0\ControlBlock.RPI.PWM.csproj.AssemblyReference.cache

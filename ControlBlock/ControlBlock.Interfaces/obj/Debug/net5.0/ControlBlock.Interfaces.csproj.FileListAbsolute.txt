@@ -1,0 +1,24 @@
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Interfaces\bin\Debug\net5.0\ControlBlock.Interfaces.deps.json
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Interfaces\bin\Debug\net5.0\ControlBlock.Interfaces.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Interfaces\bin\Debug\net5.0\ref\ControlBlock.Interfaces.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Interfaces\bin\Debug\net5.0\ControlBlock.Interfaces.pdb
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.AssemblyInfoInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.AssemblyInfo.cs
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ref\ControlBlock.Interfaces.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.pdb
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Interfaces\bin\Debug\net5.0\ControlBlock.Interfaces.deps.json
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Interfaces\bin\Debug\net5.0\ControlBlock.Interfaces.dll
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Interfaces\bin\Debug\net5.0\ControlBlock.Interfaces.pdb
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.AssemblyInfo.cs
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.dll
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\refint\ControlBlock.Interfaces.dll
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.pdb
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ref\ControlBlock.Interfaces.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.Interfaces\obj\Debug\net5.0\ControlBlock.Interfaces.csproj.AssemblyReference.cache

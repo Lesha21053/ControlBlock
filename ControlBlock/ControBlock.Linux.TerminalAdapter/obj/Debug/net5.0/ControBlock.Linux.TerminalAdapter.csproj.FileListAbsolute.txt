@@ -1,0 +1,12 @@
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControBlock.Linux.TerminalAdapter\bin\Debug\net5.0\ControBlock.Linux.TerminalAdapter.deps.json
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControBlock.Linux.TerminalAdapter\bin\Debug\net5.0\ControBlock.Linux.TerminalAdapter.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControBlock.Linux.TerminalAdapter\bin\Debug\net5.0\ref\ControBlock.Linux.TerminalAdapter.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControBlock.Linux.TerminalAdapter\bin\Debug\net5.0\ControBlock.Linux.TerminalAdapter.pdb
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControBlock.Linux.TerminalAdapter\obj\Debug\net5.0\ControBlock.Linux.TerminalAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControBlock.Linux.TerminalAdapter\obj\Debug\net5.0\ControBlock.Linux.TerminalAdapter.AssemblyInfoInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControBlock.Linux.TerminalAdapter\obj\Debug\net5.0\ControBlock.Linux.TerminalAdapter.AssemblyInfo.cs
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControBlock.Linux.TerminalAdapter\obj\Debug\net5.0\ControBlock.Linux.TerminalAdapter.csproj.CoreCompileInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControBlock.Linux.TerminalAdapter\obj\Debug\net5.0\ControBlock.Linux.TerminalAdapter.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControBlock.Linux.TerminalAdapter\obj\Debug\net5.0\ref\ControBlock.Linux.TerminalAdapter.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControBlock.Linux.TerminalAdapter\obj\Debug\net5.0\ControBlock.Linux.TerminalAdapter.pdb
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControBlock.Linux.TerminalAdapter\obj\Debug\net5.0\ControBlock.Linux.TerminalAdapter.csproj.AssemblyReference.cache

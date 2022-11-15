@@ -1,0 +1,34 @@
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.LIDAR.deps.json
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.LIDAR.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ref\ControlBlock.LIDAR.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.LIDAR.pdb
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.csproj.AssemblyReference.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.AssemblyInfoInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.AssemblyInfo.cs
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.csproj.CoreCompileInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ref\ControlBlock.LIDAR.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.pdb
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.Interfaces.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.Models.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.Interfaces.pdb
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.Models.pdb
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.LIDAR.deps.json
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.LIDAR.dll
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.LIDAR.pdb
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.Interfaces.dll
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.Models.dll
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.Interfaces.pdb
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\bin\Debug\net5.0\ControlBlock.Models.pdb
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.AssemblyInfo.cs
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.csproj.CopyComplete
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.dll
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\refint\ControlBlock.LIDAR.dll
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.pdb
+C:\Users\user\Desktop\Bot Development (2)\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ref\ControlBlock.LIDAR.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.LIDAR\obj\Debug\net5.0\ControlBlock.LIDAR.csproj.CopyComplete

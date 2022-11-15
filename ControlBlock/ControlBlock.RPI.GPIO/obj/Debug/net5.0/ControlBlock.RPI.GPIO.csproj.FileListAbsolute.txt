@@ -1,0 +1,12 @@
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.GPIO\bin\Debug\net5.0\ControlBlock.RPI.GPIO.deps.json
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.GPIO\bin\Debug\net5.0\ControlBlock.RPI.GPIO.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.GPIO\bin\Debug\net5.0\ref\ControlBlock.RPI.GPIO.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.GPIO\bin\Debug\net5.0\ControlBlock.RPI.GPIO.pdb
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.GPIO\obj\Debug\net5.0\ControlBlock.RPI.GPIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.GPIO\obj\Debug\net5.0\ControlBlock.RPI.GPIO.AssemblyInfoInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.GPIO\obj\Debug\net5.0\ControlBlock.RPI.GPIO.AssemblyInfo.cs
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.GPIO\obj\Debug\net5.0\ControlBlock.RPI.GPIO.csproj.CoreCompileInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.GPIO\obj\Debug\net5.0\ControlBlock.RPI.GPIO.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.GPIO\obj\Debug\net5.0\ref\ControlBlock.RPI.GPIO.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.GPIO\obj\Debug\net5.0\ControlBlock.RPI.GPIO.pdb
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.RPI.GPIO\obj\Debug\net5.0\ControlBlock.RPI.GPIO.csproj.AssemblyReference.cache

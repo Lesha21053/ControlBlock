@@ -1,0 +1,441 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.App\\ControlBlock.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.App\\ControlBlock.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.App\\ControlBlock.App.csproj",
+        "projectName": "ControlBlock.App",
+        "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.App\\ControlBlock.App.csproj",
+        "packagesPath": "C:\\Users\\leosh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Common\\ControlBlock.Common.csproj": {
+                "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Common\\ControlBlock.Common.csproj"
+              },
+              "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.COM\\ControlBlock.COM.csproj": {
+                "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.COM\\ControlBlock.COM.csproj"
+              },
+              "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.LIDAR\\ControlBlock.LIDAR.csproj": {
+                "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.LIDAR\\ControlBlock.LIDAR.csproj"
+              },
+              "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.MessageBus\\ControlBlock.MessageBus.csproj": {
+                "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.MessageBus\\ControlBlock.MessageBus.csproj"
+              },
+              "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Models\\ControlBlock.Models.csproj": {
+                "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Models\\ControlBlock.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.IO.Pipelines": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Common\\ControlBlock.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Common\\ControlBlock.Common.csproj",
+        "projectName": "ControlBlock.Common",
+        "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Common\\ControlBlock.Common.csproj",
+        "packagesPath": "C:\\Users\\leosh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.COM\\ControlBlock.COM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.COM\\ControlBlock.COM.csproj",
+        "projectName": "ControlBlock.COM",
+        "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.COM\\ControlBlock.COM.csproj",
+        "packagesPath": "C:\\Users\\leosh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.COM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Common\\ControlBlock.Common.csproj": {
+                "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Common\\ControlBlock.Common.csproj"
+              },
+              "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Interfaces\\ControlBlock.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Interfaces\\ControlBlock.Interfaces.csproj"
+              },
+              "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Models\\ControlBlock.Models.csproj": {
+                "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Models\\ControlBlock.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Interfaces\\ControlBlock.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Interfaces\\ControlBlock.Interfaces.csproj",
+        "projectName": "ControlBlock.Interfaces",
+        "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Interfaces\\ControlBlock.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\leosh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.LIDAR\\ControlBlock.LIDAR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.LIDAR\\ControlBlock.LIDAR.csproj",
+        "projectName": "ControlBlock.LIDAR",
+        "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.LIDAR\\ControlBlock.LIDAR.csproj",
+        "packagesPath": "C:\\Users\\leosh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.LIDAR\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Interfaces\\ControlBlock.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Interfaces\\ControlBlock.Interfaces.csproj"
+              },
+              "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Models\\ControlBlock.Models.csproj": {
+                "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Models\\ControlBlock.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.MessageBus\\ControlBlock.MessageBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.MessageBus\\ControlBlock.MessageBus.csproj",
+        "projectName": "ControlBlock.MessageBus",
+        "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.MessageBus\\ControlBlock.MessageBus.csproj",
+        "packagesPath": "C:\\Users\\leosh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.MessageBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Models\\ControlBlock.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Models\\ControlBlock.Models.csproj",
+        "projectName": "ControlBlock.Models",
+        "projectPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Models\\ControlBlock.Models.csproj",
+        "packagesPath": "C:\\Users\\leosh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leosh\\Desktop\\Bot Development\\ControlBlock\\ControlBlock.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

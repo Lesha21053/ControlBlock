@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ControlBlock.Net/1.0.0": {
+        "runtime": {
+          "ControlBlock.Net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlBlock.Net/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

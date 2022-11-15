@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ControBlock.Linux.TerminalAdapter/1.0.0": {
+        "runtime": {
+          "ControBlock.Linux.TerminalAdapter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControBlock.Linux.TerminalAdapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

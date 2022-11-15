@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ControlBlock.RPI.GPIO/1.0.0": {
+        "runtime": {
+          "ControlBlock.RPI.GPIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlBlock.RPI.GPIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

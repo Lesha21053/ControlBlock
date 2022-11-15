@@ -1,0 +1,12 @@
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.MessageBus\bin\Debug\net5.0\ControlBlock.MessageBus.deps.json
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.MessageBus\bin\Debug\net5.0\ControlBlock.MessageBus.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.MessageBus\bin\Debug\net5.0\ref\ControlBlock.MessageBus.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.MessageBus\bin\Debug\net5.0\ControlBlock.MessageBus.pdb
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.MessageBus\obj\Debug\net5.0\ControlBlock.MessageBus.csproj.AssemblyReference.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.MessageBus\obj\Debug\net5.0\ControlBlock.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.MessageBus\obj\Debug\net5.0\ControlBlock.MessageBus.AssemblyInfoInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.MessageBus\obj\Debug\net5.0\ControlBlock.MessageBus.AssemblyInfo.cs
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.MessageBus\obj\Debug\net5.0\ControlBlock.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.MessageBus\obj\Debug\net5.0\ControlBlock.MessageBus.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.MessageBus\obj\Debug\net5.0\ref\ControlBlock.MessageBus.dll
+C:\Users\leosh\Desktop\Bot Development\ControlBlock\ControlBlock.MessageBus\obj\Debug\net5.0\ControlBlock.MessageBus.pdb

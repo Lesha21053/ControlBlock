@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="System.IO.Pipelines" Version="6.0.3" />
+      <PackageReference Include="System.IO.Ports" Version="6.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ControlBlock.Common\ControlBlock.Common.csproj" />
+      <ProjectReference Include="..\ControlBlock.COM\ControlBlock.COM.csproj" />
+      <ProjectReference Include="..\ControlBlock.LIDAR\ControlBlock.LIDAR.csproj" />
+      <ProjectReference Include="..\ControlBlock.MessageBus\ControlBlock.MessageBus.csproj" />
+      <ProjectReference Include="..\ControlBlock.Models\ControlBlock.Models.csproj" />
+    </ItemGroup>
+
+</Project>
